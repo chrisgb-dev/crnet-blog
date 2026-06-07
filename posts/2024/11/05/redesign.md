@@ -2,6 +2,7 @@
 title: Rebuilt and redesigned
 description: After shutting down my members areas, I've rebuilt my website to focus on my stories and worlds.
 date: 2024-11-05 16:00:00
+category: news
 tags: ['news']
 ---
 

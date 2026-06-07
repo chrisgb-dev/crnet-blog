@@ -2,6 +2,7 @@
 title: Nuxt4 upgrade
 description: I give my site's guts an overhaul, upgrading the core to Nuxt 4.x and NuxtContent 3.x
 date: 2025-09-22 12:00:00
+category: news
 tags: ['news']
 ---
 
