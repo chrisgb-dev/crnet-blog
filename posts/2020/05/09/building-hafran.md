@@ -2,7 +2,7 @@
 title: Building Hafran
 description: I do a spot of world-building with my iPad, Apple Pencil and Procreate to map and flesh out an important setting in my current fantasy novel.
 date: 2020-05-09 21:00
-category: Journal
+category: Writing
 tags: ['worldbuilding']
 ---
 
