@@ -1,13 +1,12 @@
 ---
 title: Building Hafran
+description: I do a spot of world-building with my iPad, Apple Pencil and Procreate to map and flesh out an important setting in my current fantasy novel.
 date: 2020-05-09 21:00
 category: Journal
 tags: ['worldbuilding']
-description: I do a spot of world-building with my iPad, Apple Pencil and Procreate to map and flesh out an important setting in my current fantasy novel.
-image: images/posts/building-hafran/Hafran-Town-Abbey-Chris-Rosser.jpg
 ---
 
-I’ve been in a dark place the last week; cabin fever is really building — working from home, homeschooling…. Finding the time and peace in a crowded household to write has been…hard, really hard. With my creativity and motivation at a real low point, I’ve turned my hand to world-building again.
+Covid lockdown is getting me down; cabin fever is really building–working from home, homeschooling…. Finding the time and peace in a crowded household to write has been…hard, really hard. With my creativity and motivation at a real low point, I’ve turned my hand to world-building again.
 
 My latest effort is to map and describe the town and monastery of Hafran, a locale featured in the novel I'm currently writing. Hafran is where Owain, my protagonist from [Mistress of Skeinhold](/books/mistress-of-skeinhold), lived before he became apprenticed to Master Trysten of Langorn.
 
@@ -15,7 +14,7 @@ I always imagined Hafran like a cross between Tintern Abbey, on the English-Wels
 
 ![Tintern Abbey, part of my inspiration for Hafran ~ circa 2009](/images/posts/building-hafran/tintern-abbey.jpeg)
 
-I also decided it was long-passed time I challenged myself to create a map completely in Procreate — a drawing app for the iPad. Note, if you don't have an iPad, you can find a detailed and quite comprehensive list of drawing apps over on the [Pixpa Blog](https://www.pixpa.com/blog/drawing-apps). There's an app for just about every skill level and budget, and the article I've linked to covers pretty much all of them.
+I also decided it was long-passed time I challenged myself to create a map completely in Procreate, a drawing app for the iPad. Note, if you don't have an iPad, you can find a detailed and quite comprehensive list of drawing apps over on the [Pixpa Blog](https://www.pixpa.com/blog/drawing-apps). There's an app for just about every skill level and budget, and the article I've linked to covers pretty much all of them.
 
 Anyway, back to my drawing of Hafran. I started with a very rough layout, pencilled in purple.
 
@@ -33,7 +32,7 @@ And finally the fields and trees.
 
 ![Fields and trees](/images/posts/building-hafran/DraggedImage-3.png)
 
-I don’t pretend for a minute to be an artist — it’s all just lines and hatching. Procreate comes some decent brushed, but what really helped me was Josh Stolarz's cartography brush pack. (Not a paid advertisement, I’m simply a happy customer).
+I don’t pretend for a minute to be an artist—it’s all just lines and hatching. Procreate comes some decent brushed, but what really helped me was Josh Stolarz's cartography brush pack. (Not a paid advertisement, I’m simply a happy customer).
 
 I’ve got a lot to learn and practice, I consume a **LOT** of tutorials on blogs and YouTube. After years of half-hearted attempts and struggling with shitty drawing tablets, I’ve finally found a combination in the iPad, Apple Pencil and Procreate that really works for me. For the first time in my life, I feel confident I can improve, whereas before I thought drawing was something only those with natural talent can do.
 
