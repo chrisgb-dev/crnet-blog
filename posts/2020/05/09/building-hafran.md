@@ -18,19 +18,19 @@ I also decided it was long-passed time I challenged myself to create a map compl
 
 Anyway, back to my drawing of Hafran. I started with a very rough layout, pencilled in purple.
 
-![Rough layout sketched in Procreate](/images/posts/building-hafran/DraggedImage.png)
+![Rough layout sketched in Procreate](/images/posts/building-hafran/procreate-plan.png)
 
 From there, I began sketching the drawing, layer by layer. Starting with the river.
 
-![River sketch](/images/posts/building-hafran/DraggedImage-1.png)
+![River sketch](/images/posts/building-hafran/procreate-river-sketch.png)
 
 Then the buildings and roads.
 
-![Buildings, roads, bridges and jetties](/images/posts/building-hafran/DraggedImage-2.png)
+![Buildings, roads, bridges and jetties](/images/posts/building-hafran/procreate-town-sketch.png)
 
 And finally the fields and trees.
 
-![Fields and trees](/images/posts/building-hafran/DraggedImage-3.png)
+![Fields and trees](/images/posts/building-hafran/procreate-farmland-sketch.png)
 
 I don’t pretend for a minute to be an artist—it’s all just lines and hatching. Procreate comes some decent brushed, but what really helped me was Josh Stolarz's cartography brush pack. (Not a paid advertisement, I’m simply a happy customer).
 
